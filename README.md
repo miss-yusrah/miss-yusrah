@@ -18,7 +18,7 @@ I build web applications and blockchain-powered products with React, TypeScript,
 **Blockchain:** Rust, Solidity, Foundry, Wagmi, Viem, RainbowKit, Stellar / Soroban, Cairo / Starknet  
 **Tools:** Git, GitHub, Vercel, Figma, Linux
 
-## Connect
+## Connect with me 
 
 - Portfolio: [portfolio-hsj4.onrender.com](https://portfolio-hsj4.onrender.com)
 - LinkedIn: [yusrah-mohammed](https://www.linkedin.com/in/yusrah-mohammed-513133312/)
